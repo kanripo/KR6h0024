@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:50.193515
+#+DATE: 2015-08-30 20:06:53.414825
 #+TITLE: 大方等大集經菩薩念佛三昧分
 #+PROPERTY: CBETA_ID T13n0415
 #+PROPERTY: ID KR6h0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 415
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6h0024_T_007-0855b> ¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《大方等大集經菩薩念佛三昧¶
+《大方等大集經菩薩念佛三昧¶
 分》卷第七¶
 ¶
 隋天竺三藏達磨笈多譯¶
 
-9讚三昧相品
-:PROPERTIES:
-:head: 讚三昧相品第九
-:END:
-¶
+讚三昧相品第九¶
 
 爾時，世尊讚不空見菩薩摩訶薩言：「善哉善¶
 哉，不空見！汝於往昔乃能供養無量無數諸¶
@@ -211,11 +206,7 @@
 #+END_VERSE
 」¶
 
-10正觀品
-:PROPERTIES:
-:head: 《菩薩念佛三昧分》正觀品第十
-:END:
-¶
+《菩薩念佛三昧分》正觀品第十¶
 
 爾時，不空見菩薩摩訶薩白佛言：「世尊！若諸¶
 菩薩摩訶薩欲得成就諸佛所說菩薩念佛三¶
@@ -457,11 +448,7 @@
 #+END_VERSE
 」¶
 
-11思惟三昧品
-:PROPERTIES:
-:head: 《菩薩念佛三昧分》思惟三昧品第十一之一
-:END:
-¶
+《菩薩念佛三昧分》思惟三昧品第十一之一¶
 
 爾時，不空見菩薩摩訶薩白佛言：「世尊！若諸¶
 菩薩摩訶薩念欲成就諸佛所說念佛三昧¶
